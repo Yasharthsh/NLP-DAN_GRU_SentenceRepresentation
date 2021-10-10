@@ -1,0 +1,1 @@
+{"seq2vec_choice": "dan", "vocab_size": 10000, "embedding_dim": 50, "num_layers": 4, "type": "main"}

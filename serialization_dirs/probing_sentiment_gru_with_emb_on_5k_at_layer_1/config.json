@@ -1,0 +1,1 @@
+{"pretrained_model_path": "serialization_dirs/main_gru_5k_with_emb", "input_dim": 50, "layer_num": 1, "classes_num": 2, "type": "probing"}
